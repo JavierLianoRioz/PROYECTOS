@@ -19,6 +19,16 @@
 
 Aquí iré añadiendo los proyectos y prácticas más importantes de mi primer año. ¡Actualmente en construcción!
 
+### 🛒 Proyecto Supermercado
+
+<p align="center">
+  <a href="./supermercado/README.md">
+    <img src="./supermercado/img/Supermercado.png" alt="Supermercado" width="400"/>
+  </a>
+</p>
+
+Simulación de un supermercado con gestión de colas y cajas.
+
 ---
 ## 🛠️ Tecnologías que estoy descubriendo
 
