@@ -22,9 +22,7 @@ Aquí iré añadiendo los proyectos y prácticas más importantes de mi primer a
 ### 🛒 Proyecto Supermercado
 
 <p align="center">
-  <a href="./supermercado/README.md">
-    <img src="./supermercado/img/Supermercado.png" alt="Supermercado" width="400"/>
-  </a>
+  <a href="https://github.com/JavierLianoRioz/Supermercado">Proyecto Supermercado</a>
 </p>
 
 Simulación de un supermercado con gestión de colas y cajas.
