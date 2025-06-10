@@ -1,0 +1,3 @@
+[submodule "supermercado"]
+	path = supermercado
+	url = https://github.com/JavierLianoRioz/Supermercado
