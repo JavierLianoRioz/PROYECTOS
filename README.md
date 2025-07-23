@@ -19,7 +19,7 @@
 
 Aquí iré añadiendo los proyectos y prácticas más importantes de mi primer año. ¡Actualmente en construcción!
 
-[**🛒 Proyecto Supermercado**](https://github.com/JavierLianoRioz/Supermercad): Simulación de un supermercado con gestión de colas y cajas.
+[**🛒 Proyecto Supermercado**](https://github.com/JavierLianoRioz/Supermercado/tree/main): Simulación de un supermercado con gestión de colas y cajas.
 
 ---
 ## 🛠️ Tecnologías que estoy descubriendo
