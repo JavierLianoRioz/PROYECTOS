@@ -21,6 +21,8 @@ Aquí iré añadiendo los proyectos y prácticas más importantes de mi primer a
 
 [**🛒 Proyecto Supermercado**](https://github.com/JavierLianoRioz/Supermercado/tree/main): Simulación de un supermercado con gestión de colas y cajas.
 
+[**📝 To-Do List App**](https://github.com/JavierLianoRioz/To-Do-List): Una aplicación de lista de tareas moderna y completamente funcional construida con Astro, React y Tailwind CSS.
+
 ---
 ## 🛠️ Tecnologías que estoy descubriendo
 
