@@ -1,3 +1,6 @@
 [submodule "supermercado"]
 	path = supermercado
 	url = https://github.com/JavierLianoRioz/Supermercado
+[submodule "To-Do App"]
+	path = todo
+	url = https://github.com/JavierLianoRioz/To-Do-List
