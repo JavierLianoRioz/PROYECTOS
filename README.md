@@ -24,6 +24,15 @@ Aquí iré añadiendo los proyectos y prácticas más importantes de mi primer a
 [**📝 To-Do List App**](https://github.com/JavierLianoRioz/To-Do-List): Una aplicación de lista de tareas moderna y completamente funcional construida con Astro, React y Tailwind CSS.
 
 ---
+
+## 🌟 Mi Segundo Año: Proyectos Avanzados
+
+Aquí se encuentra uno de los proyectos más significativos de mi segundo año en el Grado de Ingeniería Informática:
+
+[**🪻 Proyecto Iris**](https://github.com/JavierLianoRioz/Proyecto-Iris): Este proyecto busca mejorar la gestión de correos electrónicos en el entorno universitario. Con Iris, los estudiantes reciben mensajes de WhatsApp con información clara y concisa sobre cambios en asignaturas, fechas de exámenes y otros eventos importantes. Iris filtra los correos y extrae solo la información relevante para evitar la sobrecarga de datos y la confusión.
+
+---
+
 ## 🛠️ Tecnologías que estoy descubriendo
 
 <p align="center">
@@ -35,4 +44,5 @@ Aquí iré añadiendo los proyectos y prácticas más importantes de mi primer a
 ---
 
 ## 📫 Contacto
+
 <a href="mailto:soy@midasdev.es">Gmail</a>
