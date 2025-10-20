@@ -29,7 +29,7 @@ Aquí iré añadiendo los proyectos y prácticas más importantes de mi primer a
 
 Aquí se encuentra uno de los proyectos más significativos de mi segundo año en el Grado de Ingeniería Informática:
 
-[**🪻 Proyecto Iris**](https://github.com/JavierLianoRioz/Proyecto-Iris): Este proyecto busca mejorar la gestión de correos electrónicos en el entorno universitario. Con Iris, los estudiantes reciben mensajes de WhatsApp con información clara y concisa sobre cambios en asignaturas, fechas de exámenes y otros eventos importantes. Iris filtra los correos y extrae solo la información relevante para evitar la sobrecarga de datos y la confusión.
+[**🪻 Proyecto Iris**](https://github.com/users/JavierLianoRioz/projects/3): Este proyecto busca mejorar la gestión de correos electrónicos en el entorno universitario. Con Iris, los estudiantes reciben mensajes de WhatsApp con información clara y concisa sobre cambios en asignaturas, fechas de exámenes y otros eventos importantes. Iris filtra los correos y extrae solo la información relevante para evitar la sobrecarga de datos y la confusión.
 
 ---
 
